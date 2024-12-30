@@ -1,8 +1,8 @@
 function Cartoon(){
      return(
           <>
-           <h1>Piggy 🐷 </h1>
-           <h1>Bunny 🐰</h1>
+        
+           <h1>Hello world!</h1>
           </>
 )
 
