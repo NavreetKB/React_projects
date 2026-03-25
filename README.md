@@ -1,12 +1,48 @@
+# ⚛️ React Projects Collection
 
-# React + Vite
+> A collection of small to intermediate React projects built for practice, learning, and showcasing different UI patterns and functionalities.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🚀 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# React_projects
+This repository contains multiple React projects ranging from **basic components** like counters and todo apps to **more complex UI projects** like website cards and interactive tools.
 
+Perfect for:
+- Beginners learning React
+- Practicing component-based architecture
+- Exploring UI/UX patterns
+
+---
+
+## 📂 Projects Included
+
+### 🟢 Beginner Projects
+- 📝 **Todo App** – Add, delete, and manage tasks
+- 🎨 **Color Picker** – Pick and preview colors dynamically
+- 🔢 **Counter App** – Increment, decrement, reset counter
+- 🔍 **Search Filter** – Filter list items in real-time
+
+### 🟡 Intermediate Projects
+- 🧮 **Calculator** – Perform basic arithmetic operations
+- 📋 **Form Validation** – Input validation with error handling
+- 🌗 **Dark/Light Mode Toggle** – Theme switching functionality
+
+### 🔴 Advanced / UI Projects
+- 🃏 **Website Cards UI** – Responsive card layouts
+- 🛍️ **Product Listing Page** – Dynamic rendering of products
+- 📊 **Dashboard UI** – Basic analytics dashboard layout
+- 🌐 **API Fetch Projects** – Fetch and display data from APIs
+
+---
+
+## 🛠️ Tech Stack
+
+- React
+- JavaScript (ES6+)
+- CSS / Tailwind / Styled Components
+- Axios / Fetch API
+
+---
+
+## 📁 Folder Structure
